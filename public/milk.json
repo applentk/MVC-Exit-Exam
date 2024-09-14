@@ -1,0 +1,13 @@
+    {
+        "cow_id": 0,
+        "milks": [
+            {
+               "type": "plain",
+               "total": 0 
+            },
+            {
+                "type": "almond",
+                "total": 0 
+            }
+        ]
+    }
